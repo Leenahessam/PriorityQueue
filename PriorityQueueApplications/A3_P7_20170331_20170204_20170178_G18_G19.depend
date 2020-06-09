@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555354141 source:c:\users\top\desktop\a3_20170331_20170204_20170178_g18_g19\a3_p7_20170331_20170204_20170178_g18_g19\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1555354248 source:e:\fci\second year\second term\data structure\assignments\finalprojects\priorityqueueapplications\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
